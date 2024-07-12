@@ -117,7 +117,7 @@ left: 20px;
 }
 
 #hero{
-    background-image: url("images/background.jpg");
+    background-image: url("background.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -135,7 +135,7 @@ justify-content: center;
   color: #088178;
 }
 #hero button{
-    background-image: url("images/button.jpg");
+    background-image: url("button.jpg");
 background-color: transparent;
 color: #088178;
 border: 0;
@@ -258,7 +258,7 @@ position: relative;
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("images/back3.jpg");
+    background-image: url("back3.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -297,7 +297,7 @@ padding: 10px 0;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("images/ladies1.jpg");
+    background-image: url("ladies1.jpg");
     min-width: 500px;
     height: 50vh;
     background-size: cover;
@@ -336,7 +336,7 @@ border: 1px solid #088178;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("images/ladies1.jpg");
+    background-image: url("ladies1.jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -345,10 +345,10 @@ padding: 20px;
 margin-bottom: 20px;
 }
 #banner3 .banner-box2{
-    background-image: url("images/ladies.jpg");
+    background-image: url("ladies.jpg");
 }
 #banner3 .banner-box3{
-    background-image: url("images/gents.jpg");
+    background-image: url("gents.jpg");
 }
 #banner3 h2{
     color: white;
@@ -366,7 +366,7 @@ margin-bottom: 20px;
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("images/prodduct2.jpg");
+    background-image: url("prodduct2.jpg");
 background-repeat: no-repeat;
 background-image: 20% 30%;
 background-color: #041e42;
@@ -443,7 +443,7 @@ padding-right: 4px;
 cursor: pointer;
 }
 #page-header{
-    background-image: url(images/back3.jpg);
+    background-image: url(back3.jpg);
     width: 100%;
     height: 40vh;
 background-size: cover;
@@ -528,7 +528,7 @@ margin-right: 50px;
 }
 
 #page-header .blog header{
-    background-image: url(images/back3.jpg);
+    background-image: url(back3.jpg);
 }
 #blog{
     padding: 150px 150px 0 150px;
@@ -586,7 +586,7 @@ margin-right: 50px;
 }
 
 #page-header.about-header{
-background-image: url(images/wpic.jpg);
+background-image: url(wpic.jpg);
 }
 
 #about-head{
